@@ -1,6 +1,6 @@
 {
   "token": "YOUR BOT TOKEM",
-  "prefix": "*",
+  "prefix": "/", // don't change without your cmd is chudling pong
   "owner_id": 7396577693,
   "owner_name": "SaGor",
   "bot_name": "SAGOR-TG-BOT",
